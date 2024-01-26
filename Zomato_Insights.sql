@@ -1,13 +1,3 @@
-CREATE DATABASE Zomato;
-
-use Zomato;
-
-show tables;
-
-select * from restaurants;
-
-select count(res_id) from restaurants;
-
 -- Top 10 highest-rated restaurants in India
 SELECT distinct name, city, aggregate_rating
 FROM restaurants
