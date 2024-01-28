@@ -34,6 +34,10 @@ The analysis focuses on extracting valuable insights from the Zomato database, i
 
 The Zomato database analysis provides valuable insights into various aspects of the restaurant industry in India. The findings highlight the evolving trends, customer preferences, and competitive landscape. This information can be instrumental for businesses, policymakers, and researchers alike, enabling them to make informed decisions and capitalize on emerging opportunities.
 
+## Dashboard
+![Screenshot 2024-01-29 031743](https://github.com/Akshat8303/Zomato-Analytics-Unveiling-Culinary-Insights-Through-SQL-and-Dashboard-Creation/assets/132274442/bfacf5d1-5dee-44bd-a34e-4f746a2626e4)
+
+
 ## Usage
 
 1. Clone the project repository to your local machine using Git:
